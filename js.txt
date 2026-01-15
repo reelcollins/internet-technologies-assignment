@@ -1,0 +1,5 @@
+Behold. Create a form that allows a user to input his/her name,
+age and tick a skills checkbox like python and javascript then 
+when submitted the text appears on the screen such as 
+"my name is peter I am age years old and can code in javascript or python or both "
+
